@@ -1,7 +1,6 @@
 import 'dart:collection';
 
 import 'package:flutter/material.dart';
-const kApiKey = "AIzaSyAk7E0XgVx6rqhaQvX9nzOQKjdvcp5qtNg";
 
 const kTextFieldInputDeco = InputDecoration(
     filled: true,
